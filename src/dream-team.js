@@ -19,19 +19,6 @@ function createDreamTeam(members) {
   // remove line with error and write your code here
 }
 
-console.log(createDreamTeam([
-  ['David Abram'],
-  ['Robin Attfield'],
-  'Thomas Berry',
-  ['Paul R.Ehrlich'],
-  'donna Haraway',
-  ' BrIaN_gOodWiN  ',
-  {
-    0: 'Serenella Iovino'
-  },
-  'Erazim Kohak',
-  '  val_plumwood',
-]));
 
 
 module.exports = {
